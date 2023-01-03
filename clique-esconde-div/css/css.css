@@ -1,0 +1,23 @@
+.orientacao {
+    display: none;
+    width: 90%;
+    font-weight: bold;
+}
+
+.matricula{
+    display: none;
+    width: 90%;
+    font-weight: bold;
+}
+
+.cpf {
+    display: block;
+    width: 90%;
+    font-weight: bold;
+}
+
+.senha {
+    display: block;
+    width: 90%;
+    font-weight: bold;
+}
