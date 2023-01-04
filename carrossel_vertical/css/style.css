@@ -1,5 +1,6 @@
 body {
     background-color: #666666;
+    font-family: Arial;
 }
 
 .box {
@@ -51,17 +52,18 @@ body {
     margin-left: 20px;
 }
 
-.n-carteirinha {
-    margin-left: 0;
-}
-
 .p-cobertura {
     width: 196px;
+
 }
 
 .n-carteira {
     width: 196px;
     text-align: center;
+}
+
+.numeroc {
+    margin-left: 0;
 }
 
 .info {
