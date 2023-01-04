@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src = "js/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $("button").click(function(){
+                $("div").animate({left:'700px'});
+            });
+        });
+    </script>
+    <title>Objeto animado</title>
+</head>
+<body>
+    <a href="index.html"><button>Home</button></a><br>
+    Clique no botão para animar a div.
+    <div style="background-color: #666;padding:2px;color:#fff;position: absolute;">Clique aqui para ver a mensagem!!</div><br><br><br>
+    <button>Clique aqui</button>
+</body>
+</html>
