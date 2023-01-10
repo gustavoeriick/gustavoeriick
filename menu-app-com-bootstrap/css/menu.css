@@ -1,0 +1,57 @@
+.menu {
+    background-color: #E12740;
+}
+
+.offcanvas-body {
+    background-color: #e4e6e9;
+}
+
+.offcanvas-header {
+    background-color: #E12740;
+    height: 58px;
+}
+
+.logo {
+    width: 190px;
+    height: auto;
+}
+
+.logo-cor-primaria {
+    width: 170px;
+    height: auto;
+}
+
+.navbar-collapse {
+    background-color: #e4e6e9 ;
+}
+
+.div-opcoes-menu {
+    display: inline-block;
+    align-items: middle;
+}
+
+.icone-menu {
+    height: 30px;
+    width: auto;
+}
+
+.icone-24h {
+    height: 48px;
+    padding-bottom: 18px;
+}
+
+.opcoes-menu {
+    font-size: 14px;
+    font-weight: bold;
+    color: #000;
+}
+
+.opcoes-menu-2 {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.filter-white {
+    filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-rotate(246deg) brightness(106%) contrast(102%);
+
+}

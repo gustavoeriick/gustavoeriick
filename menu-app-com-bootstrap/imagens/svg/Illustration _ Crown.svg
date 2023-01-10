@@ -1,0 +1,18 @@
+<svg id="Illustration_Crown" data-name="Illustration / Crown" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_125" data-name="Rectangle 125" style="stroke-width:2px;stroke:#707070;fill:none" d="M0 0h52.005v51.999H0z"/>
+        </clipPath>
+        <style>
+            .cls-4{fill:none;stroke-width:2px;stroke:#231f20;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <path id="Rectangle_47" data-name="Rectangle 47" style="fill:none" d="M0 0h64v64H0z"/>
+    <g id="Group_146" data-name="Group 146" transform="translate(5.998 7)">
+        <g id="Group_145" data-name="Group 145" style="clip-path:url(#clip-path)">
+            <path id="Path_922" data-name="Path 922" class="cls-4" d="M48.952 20a13.733 13.733 0 0 1-3.1 7.56 19.481 19.481 0 0 0-3.89 8.48l-2.321 11.3a4.605 4.605 0 0 1-8.98.15l-1.98-8.11a2.759 2.759 0 0 0-5.359 0l-1.981 8.11a4.647 4.647 0 0 1-1.63 2.53 4.608 4.608 0 0 1-7.35-2.68l-2.32-11.3a19.468 19.468 0 0 0-3.889-8.48 13.735 13.735 0 0 1-3.1-7.56h13.43a2.323 2.323 0 0 0 1.68-.7 2.347 2.347 0 0 0 .7-1.68 3.57 3.57 0 0 1 3.57-3.56h7.141a3.568 3.568 0 0 1 3.569 3.56 2.38 2.38 0 0 0 2.38 2.38z"/>
+            <path id="Path_923" data-name="Path 923" class="cls-4" d="M37 5.987A23.521 23.521 0 0 1 26 8.98a23.523 23.523 0 0 1-11-2.993"/>
+            <path id="Path_924" data-name="Path 924" class="cls-4" d="M50.443 20H35.522a2.379 2.379 0 0 1-2.379-2.38 3.57 3.57 0 0 0-3.57-3.56h-7.14a3.57 3.57 0 0 0-3.57 3.56 2.39 2.39 0 0 1-2.38 2.38H1.563a14.578 14.578 0 0 1-.5-5.39 15.062 15.062 0 0 1 13.6-13.55 14.831 14.831 0 0 1 6.2.75 15.747 15.747 0 0 0 10.28 0 14.828 14.828 0 0 1 6.2-.75 15.062 15.062 0 0 1 13.6 13.55 14.6 14.6 0 0 1-.5 5.39z"/>
+        </g>
+    </g>
+</svg>

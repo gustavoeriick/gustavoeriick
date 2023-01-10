@@ -1,0 +1,54 @@
+function RemoverAcentos(mensagem)
+{
+	mensagem = mensagem.replace(eval('/'+'\u00e1'+'/g'),'-u00e1');
+	mensagem = mensagem.replace(eval('/'+'\u00e0'+'/g'),'-u00e0');
+	mensagem = mensagem.replace(eval('/'+'\u00e2'+'/g'),'-u00e2');
+	mensagem = mensagem.replace(eval('/'+'\u00e3'+'/g'),'-u00e3');
+	mensagem = mensagem.replace(eval('/'+'\u00e4'+'/g'),'-u00e4');
+	mensagem = mensagem.replace(eval('/'+'\u00c1'+'/g'),'-u00c1');
+	mensagem = mensagem.replace(eval('/'+'\u00c0'+'/g'),'-u00c0');
+	mensagem = mensagem.replace(eval('/'+'\u00c2'+'/g'),'-u00c2');
+	mensagem = mensagem.replace(eval('/'+'\u00c3'+'/g'),'-u00c3');
+	mensagem = mensagem.replace(eval('/'+'\u00c4'+'/g'),'-u00c4');
+	mensagem = mensagem.replace(eval('/'+'\u00e9'+'/g'),'-u00e9');
+	mensagem = mensagem.replace(eval('/'+'\u00e8'+'/g'),'-u00e8');
+	mensagem = mensagem.replace(eval('/'+'\u00ea'+'/g'),'-u00ea');
+	mensagem = mensagem.replace(eval('/'+'\u00ea'+'/g'),'-u00ea');
+	mensagem = mensagem.replace(eval('/'+'\u00c9'+'/g'),'-u00c9');
+	mensagem = mensagem.replace(eval('/'+'\u00c8'+'/g'),'-u00c8');
+	mensagem = mensagem.replace(eval('/'+'\u00ca'+'/g'),'-u00ca');
+	mensagem = mensagem.replace(eval('/'+'\u00cb'+'/g'),'-u00cb');
+	mensagem = mensagem.replace(eval('/'+'\u00ed'+'/g'),'-u00ed');
+	mensagem = mensagem.replace(eval('/'+'\u00ec'+'/g'),'-u00ec');
+	mensagem = mensagem.replace(eval('/'+'\u00ee'+'/g'),'-u00ee');
+	mensagem = mensagem.replace(eval('/'+'\u00ef'+'/g'),'-u00ef');
+	mensagem = mensagem.replace(eval('/'+'\u00cd'+'/g'),'-u00cd');
+	mensagem = mensagem.replace(eval('/'+'\u00cc'+'/g'),'-u00cc');
+	mensagem = mensagem.replace(eval('/'+'\u00ce'+'/g'),'-u00ce');
+	mensagem = mensagem.replace(eval('/'+'\u00cf'+'/g'),'-u00cf');
+	mensagem = mensagem.replace(eval('/'+'\u00f3'+'/g'),'-u00f3');
+	mensagem = mensagem.replace(eval('/'+'\u00f2'+'/g'),'-u00f2');
+	mensagem = mensagem.replace(eval('/'+'\u00f4'+'/g'),'-u00f4');
+	mensagem = mensagem.replace(eval('/'+'\u00f5'+'/g'),'-u00f5');
+	mensagem = mensagem.replace(eval('/'+'\u00f6'+'/g'),'-u00f6');
+	mensagem = mensagem.replace(eval('/'+'\u00d3'+'/g'),'-u00d3');
+	mensagem = mensagem.replace(eval('/'+'\u00d2'+'/g'),'-u00d2');
+	mensagem = mensagem.replace(eval('/'+'\u00d4'+'/g'),'-u00d4');
+	mensagem = mensagem.replace(eval('/'+'\u00d5'+'/g'),'-u00d5');
+	mensagem = mensagem.replace(eval('/'+'\u00d6'+'/g'),'-u00d6');
+	mensagem = mensagem.replace(eval('/'+'\u00fa'+'/g'),'-u00fa');
+	mensagem = mensagem.replace(eval('/'+'\u00f9'+'/g'),'-u00f9');
+	mensagem = mensagem.replace(eval('/'+'\u00fb'+'/g'),'-u00fb');
+	mensagem = mensagem.replace(eval('/'+'\u00fc'+'/g'),'-u00fc');
+	mensagem = mensagem.replace(eval('/'+'\u00da'+'/g'),'-u00da');
+	mensagem = mensagem.replace(eval('/'+'\u00d9'+'/g'),'-u00d9');
+	mensagem = mensagem.replace(eval('/'+'\u00db'+'/g'),'-u00db');
+	mensagem = mensagem.replace(eval('/'+'\u00e7'+'/g'),'-u00e7');
+	mensagem = mensagem.replace(eval('/'+'\u00c7'+'/g'),'-u00c7');
+	mensagem = mensagem.replace(eval('/'+'\u00f1'+'/g'),'-u00f1');
+	mensagem = mensagem.replace(eval('/'+'\u00d1'+'/g'),'-u00d1');
+	mensagem = mensagem.replace(eval('/'+'\u0026'+'/g'),'-u0026');
+	mensagem = mensagem.replace(eval('/'+'\u0027'+'/g'),'-u0027');
+
+	return mensagem;
+}

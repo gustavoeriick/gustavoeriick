@@ -1,0 +1,14 @@
+<svg data-name="Icon / Badge" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g data-name="Group 116">
+        <path data-name="Rectangle 108" style="fill:none" d="M0 0h24v24H0z"/>
+    </g>
+    <g data-name="Group 118">
+        <g data-name="Group 117" transform="translate(0 -2)">
+            <path data-name="Rectangle 109" d="M14 12h4v1.5h-4z"/>
+            <path data-name="Rectangle 110" d="M14 15h4v1.5h-4z"/>
+            <path data-name="Path 866" d="M20 7H4a2.006 2.006 0 0 0-2 2v11a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V9a2.006 2.006 0 0 0-2-2zm0 13H4V9h16z"/>
+            <circle data-name="Ellipse 4" cx="1.5" cy="1.5" r="1.5" transform="translate(7.5 12)"/>
+            <path data-name="Path 867" d="M11.08 16.18a5.246 5.246 0 0 0-4.16 0A1.506 1.506 0 0 0 6 17.57V18h6v-.43a1.506 1.506 0 0 0-.92-1.39z"/>
+        </g>
+    </g>
+</svg>

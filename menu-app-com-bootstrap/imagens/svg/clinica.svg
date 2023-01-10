@@ -1,0 +1,19 @@
+<svg id="Illustration_clinic" data-name="Illustration / clinic" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#231f20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="Rectangle_27" data-name="Rectangle 27" style="fill:none" d="M0 0h64v64H0z"/>
+    <path id="Path_44" data-name="Path 44" class="cls-2" d="M47 10v6a2.946 2.946 0 0 1-3 3H20a2.946 2.946 0 0 1-3-3v-6a2.946 2.946 0 0 1 3-3h24a2.946 2.946 0 0 1 3 3z"/>
+    <path id="Path_45" data-name="Path 45" d="M35 11.6a1.718 1.718 0 0 0-1.6-1.6 1.483 1.483 0 0 0-.7.1 2.437 2.437 0 0 1-1.2 0 2.769 2.769 0 0 0-.9-.1 1.718 1.718 0 0 0-1.6 1.6 1.844 1.844 0 0 0 .4 1.3 2.22 2.22 0 0 1 .5 1.1c.1.5.2 1.1.3 1.5a.634.634 0 0 0 .6.5.634.634 0 0 0 .6-.5l.3-1.1a.354.354 0 0 1 .7 0l.3 1.1a.634.634 0 0 0 .6.5.634.634 0 0 0 .6-.5c.1-.4.2-1 .3-1.5a2.22 2.22 0 0 1 .5-1.1 2.5 2.5 0 0 0 .3-1.3z" style="fill:#231f20"/>
+    <path id="Rectangle_28" data-name="Rectangle 28" class="cls-2" transform="translate(10 28)" d="M0 0h44v29H0z"/>
+    <path id="Line_6" data-name="Line 6" class="cls-2" transform="translate(21 13)" d="M0 0h5"/>
+    <path id="Line_7" data-name="Line 7" class="cls-2" transform="translate(38 13)" d="M0 0h5"/>
+    <path id="Rectangle_29" data-name="Rectangle 29" class="cls-2" transform="translate(24 19)" d="M0 0h16v4H0z"/>
+    <path id="Rectangle_30" data-name="Rectangle 30" class="cls-2" transform="translate(7 23)" d="M0 0h50v5H0z"/>
+    <path id="Rectangle_31" data-name="Rectangle 31" class="cls-2" transform="translate(16 38)" d="M0 0h14v19H0z"/>
+    <path id="Rectangle_32" data-name="Rectangle 32" class="cls-2" transform="translate(35 38)" d="M0 0h13v11H0z"/>
+    <path id="Line_8" data-name="Line 8" class="cls-2" transform="translate(7 57)" d="M0 0h50"/>
+    <path id="Line_9" data-name="Line 9" class="cls-2" transform="translate(20 45)" d="M0 0v2"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg id="Illustration_Corretor" data-name="Illustration / Corretor" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#231f20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="Rectangle_33" data-name="Rectangle 33" style="fill:none" d="M0 0h64v64H0z"/>
+    <path id="Path_46" data-name="Path 46" class="cls-2" d="M53 12v46a2.946 2.946 0 0 1-3 3H14a2.946 2.946 0 0 1-3-3V12a2.946 2.946 0 0 1 3-3h10v4a1.075 1.075 0 0 0 1 1h14a1.075 1.075 0 0 0 1-1V9h10a2.946 2.946 0 0 1 3 3z"/>
+    <path id="Path_47" data-name="Path 47" class="cls-2" d="M49 13v44H15V13h9a1.075 1.075 0 0 0 1 1h14a1.075 1.075 0 0 0 1-1z"/>
+    <path id="Path_48" data-name="Path 48" class="cls-2" d="M40 9v4a1.075 1.075 0 0 1-1 1H25a1.075 1.075 0 0 1-1-1V9a1.075 1.075 0 0 1 1-1h3V7a4.052 4.052 0 0 1 4.4-4A4.134 4.134 0 0 1 36 7.2V8h3a1.075 1.075 0 0 1 1 1z"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="1" cy="1" r="1" transform="translate(31 6)" style="fill:#231f20"/>
+    <path id="Path_49" data-name="Path 49" class="cls-2" d="M39 23.8a4.259 4.259 0 0 0-3.8-3.8 3.21 3.21 0 0 0-1.7.2 4.782 4.782 0 0 1-2.9 0 5.537 5.537 0 0 0-1.8-.2 4.259 4.259 0 0 0-3.8 3.8 4.3 4.3 0 0 0 .9 3 5.678 5.678 0 0 1 1.2 2.6c.2 1.1.5 2.5.7 3.4a1.32 1.32 0 0 0 1.4 1.1h0a1.472 1.472 0 0 0 1.4-1.1l.6-2.5a.812.812 0 0 1 1.6 0l.6 2.5a1.5 1.5 0 0 0 1.4 1.1h0a1.5 1.5 0 0 0 1.4-1.1c.2-.9.5-2.3.7-3.4a6.821 6.821 0 0 1 1.2-2.6 4.153 4.153 0 0 0 .9-3z"/>
+    <path id="Line_10" data-name="Line 10" class="cls-2" transform="translate(20 41)" d="M0 0h13"/>
+    <path id="Line_11" data-name="Line 11" class="cls-2" transform="translate(20 46)" d="M0 0h13"/>
+    <path id="Line_12" data-name="Line 12" class="cls-2" transform="translate(20 51)" d="M0 0h13"/>
+    <path id="Line_13" data-name="Line 13" class="cls-2" transform="translate(38 41)" d="M0 0h6"/>
+    <path id="Line_14" data-name="Line 14" class="cls-2" transform="translate(38 46)" d="M0 0h6"/>
+    <path id="Line_15" data-name="Line 15" class="cls-2" transform="translate(38 51)" d="M0 0h6"/>
+</svg>
